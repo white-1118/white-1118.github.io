@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# white-1118.github.io
+Repository for white's academic research website.
